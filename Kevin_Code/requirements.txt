@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+pandas
+transformers
+accelerate
+scikit-learn
+openpyxl
+matplotlib
+numpy
+--extra-index-url https://download.pytorch.org/whl/cu118

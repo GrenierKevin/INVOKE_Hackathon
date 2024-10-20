@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=sNa_uiqSlJo (Text Embeddings, Classification, and Semantic Search (w/ Python Code))
+
+https://www.youtube.com/watch?v=eC6Hd1hFvos (Fine-tuning Large Language Models (LLMs) | w/ Example Code)
+
+https://www.youtube.com/watch?v=4QHg8Ix8WWQ (Fine-Tuning BERT for Text Classification (Python Code)
+
+https://www.youtube.com/watch?v=4nNbg4bWDrQ (FineTuning BERT for Multi-Class Classification on custom Dataset | Transformer for NLP)
+
+https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models/tree/main
+
+https://github.com/ShawhinT/YouTube-Blog/tree/main
